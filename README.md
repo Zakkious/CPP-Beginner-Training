@@ -1,0 +1,1 @@
+This repository contains basic scripts and assets currently being used on my C++ course
