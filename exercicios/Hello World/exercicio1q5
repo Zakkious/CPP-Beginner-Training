@@ -1,0 +1,45 @@
+-Exercício 1; Questão 5;
+
+Definição dos termos-chave da Parte 1 - O básico: 
+
+// -> Define um comentário (é ignorado pelo compilador, servindo, então, apenas a fim de instruir outros a como ler seu programa e torná-lo mais manutenível)
+
+<< -> operador de saída padrão do C++ 
+
+#include -> Define a inclusão de um header que será utilizado ao longo do código fonte
+
+biblioteca -> código com instruções de como realizar certos comandos
+
+C++ -> Linguagem de programação utilizada pelo livro. Por sua vez, uma linguagem de programação tem como objetivo tornar possível (ou pelo menos mais acessível) a comunicação e construção de programas que serão realizados por um computador.
+
+cabeçalho (header) -> Uma "biblioteca" de comandos que serão utilizados pelo programa
+
+código fonte -> O código original, escrito em uma linguagem de programação, de um programa. Nele estão incluídos todas as instruções seguidas por um computador a fim de executar uma(s) tarefa(s) (tarefas estas definidas no código-fonte)
+
+código objeto -> Código resultante do processo de compilação do código fonte. Neste estado, ele pode ser lido por um computador, ou ao menos um da plataforma/sistema que o compilara
+
+comando -> tarefa escrita no código fonte que instrui um computador ao que ele deve fazer. Por exemplo, ao escrever "cout << "Olá, Mundo!"; ", estou instruindo o computador a escrever na tela a frase "Olá, Mundo!"
+
+comentário -> comentários são observações deixadas por programadores em seus códigos a fim de torná-o mais manutenível a médio-longo prazo e a outros que possam vir a trabalhar nele. Assim, é mais fácil voltar a trabalhar em um programa após algum período de tempo, ou/e também facilita a outros a entenderem o código. 
+
+cout -> "cout" é uma abreviação de    que faz com que o computador imprima no console determinado valor ou texto
+
+erro de compilação -> Um erro de compilação é um sinal dado pelo compilador que exibe a presença de problemas no código fonte
+
+executável -> Um executável é um tipo de arquivo resultante da ligação de um código objeto e suas bibliotecas, criando um arquivo que pode ser executado livremente em qualquer computador daquela plataforma/sistema, sem a necessidade de um compilador
+
+função -> Função é uma seção do código que deixa claro os comandos que deverão ser seguidos e os parâmetros deles
+
+IDE -> Uma interface de desenvolvimento é um programa que visa facilitar os processos de escrita, depuração e compilação dos códigos de um programador. Ele conta com a habilidade de automaticamente consertar erros de escrita, sintaxe e outros que poderiam resultar em um erro de compilação, além de incluir um compilador integrado e outras ferramentas para ajudar o programador
+
+ligador -> É um programa que liga o código objeto resultante da compilação de um programa com as bibliotecas C++  utilizadas por ele em um arquivo executável
+
+main() -> main() é a função principal em um programa C++. Como em toda função, nela se definem os comandos que serão seguidos pelo computador e os parâmetros destes.
+
+programa -> Um programa é a descrição dos comandos e as partes necessárias para a execução desses comandos a fim de realizar uma tarefa
+
+saída -> A saída é o resultado de um comando realizado exclusivamente pelo computador, como uma operação matemática ou a escrita de um texto
+
+
+
+
